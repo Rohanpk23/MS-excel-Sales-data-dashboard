@@ -1,7 +1,7 @@
 # Sales data dashboard in MS Excel using advanced functions such as Pivot table 
 
-You can visit the following webpage to see the dashboard https://1drv.ms/x/s!ArcVMDmOHNp4hF5n_M9PkKkZ8li1
-\nYou can fork the repository to see the actual .xlsx file 
+You can visit the following webpage to see the dashboard https://1drv.ms/x/s!ArcVMDmOHNp4hF5n_M9PkKkZ8li1 \
+You can fork the repository to see the actual .xlsx file 
 I would really love if you can suggest some improvements as a pull request. 
 
 This project is based on making a dashboard using a sales data from a  website. 
