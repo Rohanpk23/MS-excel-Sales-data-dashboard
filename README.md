@@ -1,3 +1,4 @@
+# Sales data dashboard in MS Excel using advanced functions such as Pivot table 
 This project is based on making a dashboard using a sales data from a  website. 
 The sales data table consists of the product sales data. These are the following columns: 						
 1. Distributor id						
