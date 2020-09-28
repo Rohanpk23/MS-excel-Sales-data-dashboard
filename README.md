@@ -27,11 +27,10 @@ These are the questions that have been answered by the sales report:
 1. KPIs specific to products : Filters used in any combination; Sales channel adopted, Day, month 													
 2. KPIs specific to Sales channels: Filters used in any combination; Country (TBD), Distributor(TBD), Day, Month													
 3. Daily revenue and units sold for each month. 													
-3. For distributors working in different countries, the KPIs (revenue and units sold) following filters can be applied in any combination:													
-    a. Country/													
-     b. Sales Channel/												
-     c. Product/													
-     d. Day/													
-     e. Month/
+3. For distributors working in different countries, the KPIs (revenue and units sold) following filters can be applied in any combination:													1. Country												
+        2. Sales Channel												
+        3. Product												
+        4. Day												
+        5. Month
      
  The TBD features are yet to be applied as improvements to the first version
