@@ -12,3 +12,18 @@ The sales data table consists of the product sales data. These are the following
 9. Quantity						
 10. Unit Price						
 11. Revenue						
+
+KPI considered in the dashboard: 
+1. Sales revenue
+2. Units sold 
+3. Distributors' count													
+These are the questions that have been answered by the sales report:													
+1. KPIs specific to products : Filters used in any combination; Sales channel adopted, Day, month 													
+2. KPIs specific to Sales channels: Filters used in any combination; Country (TBD), Distributor(TBD), Day, Month													
+3. Daily revenue and units sold for each month. 													
+3. For distributors working in different countries, the KPIs (revenue and units sold) following filters can be applied in any combination:													
+     a. Country													
+     b. Sales Channel													
+     c. Product													
+     d. Day													
+     e. Month													
